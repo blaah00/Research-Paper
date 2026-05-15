@@ -19,7 +19,8 @@ Companies examined: Costco, Patagonia, Microsoft, Airbnb,
 Disney, Twitter/X, Zoom, BYJU'S, Goldman Sachs, H&M, 
 Boeing, and Amazon.
 
-[View Paper](link to Mapping_the_Gap_Research_Paper.pdf)
+[View Paper]
+(https://github.com/blaah00/Research-Paper/blob/main/Mapping%20the%20Gap%20Research%20Paper.pdf)
 
 ---
 
