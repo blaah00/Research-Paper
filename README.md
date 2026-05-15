@@ -1,4 +1,4 @@
-# Research
+# Research Paper
 
 Two independent research papers on organisational behaviour, 
 business ethics, and HR strategy.
