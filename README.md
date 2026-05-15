@@ -37,8 +37,7 @@ McKinsey, TCS, Infosys, Wipro, Amazon, Meta, Microsoft,
 WeWork, Semco, Patagonia, Costco, Google, Basecamp, 
 and Indian gig platforms.
 
-[View Paper]
-(https://github.com/blaah00/Research-Paper/blob/main/Corporate%20by%20Design.pdf)
+[View Paper](https://github.com/blaah00/Research-Paper/blob/main/Corporate%20by%20Design.pdf)
 
 ---
 
